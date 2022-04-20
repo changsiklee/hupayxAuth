@@ -1,0 +1,15 @@
+_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Editor directories and files
+.env
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
